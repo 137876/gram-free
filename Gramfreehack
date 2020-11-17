@@ -1,0 +1,13 @@
+apt update && apt upgrade
+
+pkg install php
+
+pkg install nano
+
+pkg install git
+
+cd / مسیر سورس
+
+ls
+
+php bot.php
